@@ -1,0 +1,6 @@
+rasterio
+earthengine
+google-cloud-storage
+google-auth
+google-auth-oauthlib
+google-earthengine
