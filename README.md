@@ -1,6 +1,6 @@
-### **Response to Concerns on Group-Based Splitting**
+### **Group-Based Splitting**
 
-Methodology employed in the pipeline, focusing on how the separation of training and testing data, cross-validation, and hyperparameter tuning were implemented. Below, I provide a comprehensive explanation of the decisions taken and the reasoning behind them.
+The methodology employed in the pipeline focuses on how the separation of training and testing data, cross-validation, and hyperparameter tuning was implemented. Below, I provide a comprehensive explanation of the decisions taken and the reasoning behind them.
 
 ---
 
